@@ -5,14 +5,14 @@ This repository contains solutions to a series of Machine Learning tasks as part
 ## 📋 Progress Overview
 
 - **Total Tasks:** 4
-- **Completed:** 0
-- **Remaining:** 4
+- **Completed:** 3
+- **Remaining:** 1
 
 | Task Number | Status     | Description (optional)         |
 |-------------|------------|-------------------------------|
-| Task 1 (EDA) | ⏳ Pending  | Exploratory Data Analysis      |
-| Task 2 (ML)  | ⏳ Pending  | ML Model Development           |
-| Task 3 (Ideation) | ⏳ Pending | Event Theme & Problem Statement |
+| Task 1 (EDA) | 🚀 Done  | Exploratory Data Analysis      |
+| Task 2 (ML)  | 🚀 Done  | ML Model Development           |
+| Task 3 (Ideation) | 🚀 Done | Event Theme & Problem Statement |
 | Task 4 (NLP) | ⏳ Pending  | Spam vs Ham Classification     |
 
 ## 🚩 How to Use
